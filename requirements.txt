@@ -1,0 +1,10 @@
+bert-extractive-summarizer
+bs4
+openai
+pymongo
+dnspython
+requests
+spacy
+torch
+tornado
+transformers
